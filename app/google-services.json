@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "761023662778",
+    "firebase_url": "https://playground-climbing.firebaseio.com",
+    "project_id": "playground-climbing",
+    "storage_bucket": "playground-climbing.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761023662778:android:e0456c59e70214a3325083",
+        "android_client_info": {
+          "package_name": "com.example.playground"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "761023662778-1i0g7eqeo4te66rja03ccgvkh7ve0dt1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGMSMDP0H_oDaJLAQD3aMOyJgt4R9PMCo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "761023662778-1i0g7eqeo4te66rja03ccgvkh7ve0dt1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

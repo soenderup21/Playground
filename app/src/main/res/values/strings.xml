@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Playground</string>
+    <string name="tilf_j_rute">Tilføj Rute</string>
+    <string name="gradering_font_eller_farve">Gradering (Font eller Farve)</string>
+    <string name="lokation_v_g_i_boulderen_eller_anker_p_top_reb">Lokation (Væg i boulderen, eller anker på top reb)</string>
+    <string name="greb_farve">Greb farve</string>
+    <string name="inds_t_billede">Indsæt Billede</string>
+    <string name="er_boulder">Er Boulder</string>
+    <string name="todo">TODO</string>
+    <string name="tilf_j_ny_rute">Tilføj ny Rute</string>
+    <string name="fjern_rute">Fjern Rute</string>
+    <string name="boulders">Boulders</string>
+    <string name="top_reb">Top Reb</string>
+    <string name="remove_route">Fjern Rute</string>
+    <string name="title_activity_login">Playground</string>
+    <string name="prompt_email">Username</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Log ind</string>
+    <string name="action_sign_in_short">Log ind</string>
+    <string name="welcome">"Velkommen! "</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password invalid</string>
+    <string name="login_failed">"Login failed"</string>
+
+</resources>
